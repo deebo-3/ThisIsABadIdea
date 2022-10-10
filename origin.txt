@@ -1,1 +1,2 @@
 This is the original file.
+I am now adding a line.
